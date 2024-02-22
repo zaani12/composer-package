@@ -9,7 +9,7 @@
             "email": "zaani.hamza.solicode@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Hamza\\Calculator\\": "src/"
