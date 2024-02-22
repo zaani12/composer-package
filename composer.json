@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "hamza/calculator": "dev-main"
+        "php": ">=5.5"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
