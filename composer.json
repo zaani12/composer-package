@@ -1,0 +1,17 @@
+{
+    "name": "hamza/calculator",
+    "description": "A simple calculator package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zaani12",
+            "email": "zaani.hamza.solicode@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "calculatorNamespace\\": "src/"
+        }
+    }
+}
