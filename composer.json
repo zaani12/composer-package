@@ -14,7 +14,9 @@
             "email": "zaani.hamza.solicode@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "hamza122/calculator": "1.0.0" 
+    },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
     }
