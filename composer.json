@@ -14,5 +14,7 @@
             "Hamza\\Calculator\\": "src/"
         }
     },
+    "minimum-stability": "dev",
     "require": {}
 }
+
