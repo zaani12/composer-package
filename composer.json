@@ -14,7 +14,6 @@
             "email": "zaani.hamza.solicode@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {},
     "require-dev": {
         "phpunit/phpunit": "^9.0"
